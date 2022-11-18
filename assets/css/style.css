@@ -1,0 +1,95 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*uikit*/
+.uk-section {
+    padding: 0;
+}
+
+/*self-style*/
+.header {
+    padding: 20px;
+    background: #FAEFEE;
+}
+
+.headerLogo {
+    width: calc(100% - 48px);
+}
+
+.headerLogo a {
+    width: 50%;
+}
+
+.banner {
+    height: 100px;
+    background: #666;
+    color: #FFF;
+    border-radius: 5px;
+}
+
+.productsTitleSection {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #883F39;
+}
+
+.product {
+    padding: 10px;
+    border-radius: 5px;
+    background: #FAEFEE;
+}
+
+.productImage {
+    width: 40%;
+}
+
+.productImage img {
+    border-radius: 5px;
+}
+
+.productName,
+.productPrice,
+.productAdd {
+    flex-basis: 100%;
+}
+
+.productName {
+    font-size: 1.1em;
+    color: #883F39;
+    font-weight: bold;
+}
+
+.productPrice {
+    font-size: 1.1em;
+    color: #B28A87;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.productAdd a {
+    background: #883F39;
+    color: #FFF;
+    border-radius: 5px;
+    font-size: 0.875em;
+}
+
+.productAdd a:hover {
+    background: #B28A87;
+    color: #FFF;
+    border-radius: 5px;
+}
+
+.productBoxInfo {
+    width: calc(60% - 20px);
+}
+
+.footer {
+    padding: 20px;
+    background: #883F39;
+    color: #FFF;
+}
+
+.footerLogo{
+    width: 15%;
+}

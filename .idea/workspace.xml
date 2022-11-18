@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2c6664b-ccd7-4195-b0b1-bdb93151c5e1" name="Changes" comment="[feat] removido o script da Nobeta." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gean Bertani &lt;geanbertani@gmail.com&gt;" />
+        <option value="geanbertani &lt;geanbertani@gmail.com&gt;" />
+        <option value="Gea" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29Rh1Wp9BK42CjjCLMurQu6DBbj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "database.data.extractors.current.export.id": "SQL Inserts",
+    "database.data.extractors.current.id": "SQL Inserts",
+    "last_opened_file_path": "/Users/gean/Docker/server_php/caboclotechcafe/src/caboclotechcafe-v1",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/uploads/products/image" />
+      <recent name="$PROJECT_DIR$/uploads/products" />
+      <recent name="$PROJECT_DIR$/assets/image" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2c6664b-ccd7-4195-b0b1-bdb93151c5e1" name="Changes" comment="" />
+      <created>1653081591922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653081591922</updated>
+      <workItem from="1653081594687" duration="2442000" />
+      <workItem from="1653084622464" duration="188000" />
+      <workItem from="1653084839465" duration="7219000" />
+      <workItem from="1653922604816" duration="274000" />
+      <workItem from="1653923940347" duration="5000" />
+      <workItem from="1653946457277" duration="80000" />
+      <workItem from="1654699322516" duration="4309000" />
+      <workItem from="1655228064854" duration="2782000" />
+      <workItem from="1655241764509" duration="15000" />
+      <workItem from="1655320493113" duration="1136000" />
+      <workItem from="1655467641480" duration="598000" />
+      <workItem from="1655506880354" duration="197000" />
+      <workItem from="1655911432889" duration="607000" />
+      <workItem from="1656093787896" duration="52000" />
+      <workItem from="1656621609734" duration="1762000" />
+      <workItem from="1656627743597" duration="45000" />
+      <workItem from="1657044120467" duration="3226000" />
+      <workItem from="1657130579054" duration="433000" />
+      <workItem from="1657135142496" duration="711000" />
+      <workItem from="1657228253486" duration="598000" />
+      <workItem from="1657280391998" duration="594000" />
+      <workItem from="1657563828146" duration="1214000" />
+      <workItem from="1657828005793" duration="871000" />
+      <workItem from="1657893620357" duration="596000" />
+      <workItem from="1657983162144" duration="815000" />
+      <workItem from="1657983988370" duration="2027000" />
+      <workItem from="1658173542159" duration="1050000" />
+      <workItem from="1658252711534" duration="7512000" />
+      <workItem from="1658262963639" duration="39000" />
+      <workItem from="1658264502164" duration="421000" />
+      <workItem from="1658583021242" duration="2561000" />
+      <workItem from="1658748480551" duration="25000" />
+      <workItem from="1658929270090" duration="14000" />
+      <workItem from="1659465389373" duration="1965000" />
+      <workItem from="1659527479057" duration="300000" />
+      <workItem from="1659556756565" duration="1375000" />
+      <workItem from="1659558185615" duration="70000" />
+      <workItem from="1659558299486" duration="677000" />
+      <workItem from="1661209825978" duration="12000" />
+      <workItem from="1661275782476" duration="3041000" />
+      <workItem from="1661367372507" duration="9952000" />
+      <workItem from="1661426165758" duration="1226000" />
+      <workItem from="1661976641018" duration="600000" />
+      <workItem from="1662144569060" duration="251000" />
+      <workItem from="1662473952602" duration="9000" />
+      <workItem from="1662489201526" duration="614000" />
+      <workItem from="1662501574787" duration="3038000" />
+      <workItem from="1662735005927" duration="19000" />
+      <workItem from="1663093913589" duration="46000" />
+      <workItem from="1663782119558" duration="3242000" />
+      <workItem from="1663844891004" duration="579000" />
+      <workItem from="1663855670713" duration="42000" />
+      <workItem from="1664400464980" duration="613000" />
+      <workItem from="1664453152504" duration="598000" />
+      <workItem from="1664838091771" duration="598000" />
+      <workItem from="1664881064418" duration="597000" />
+      <workItem from="1665172968104" duration="598000" />
+      <workItem from="1665402260125" duration="3000" />
+      <workItem from="1665518675265" duration="1131000" />
+      <workItem from="1665660878520" duration="603000" />
+      <workItem from="1665748134755" duration="30000" />
+      <workItem from="1668727610251" duration="57000" />
+      <workItem from="1668727667944" duration="48000" />
+      <workItem from="1668727874166" duration="13531000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ajustes de arquivos locais para servidor Docker">
+      <created>1653141098503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653141098503</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ajustes de arquivos locais para servidor Docker">
+      <created>1653141783042</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653141783042</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ajustes no arquivo dashboard para que reconheça a versão do MySQL">
+      <created>1653143677196</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653143677196</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ajuste pra alteração de data">
+      <created>1654702707135</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654702707135</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Removido a atualização views dos banners pra deixar pra ágil o site">
+      <created>1655228157319</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655228157319</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[FEAT] Adicionado novo campo de banner no topo.">
+      <created>1655241206705</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655241206705</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[FEAT] Ajuste para tirar prints">
+      <created>1656622497481</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656622497481</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[FEAT] Ajuste no app_id do facebook">
+      <created>1657045331665</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657045331665</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[Feat] Remoção do ads_php e adicionado script da nobeta.">
+      <created>1657564195433</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657564195433</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[Feat] Remoção do script da nobeta.">
+      <created>1657828040220</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657828040220</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[Feat] Aumentar o player do facebook na leitura de notícias. #RR:18">
+      <created>1657984515262</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657984515262</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[Feat] Remover o banner bet365.">
+      <created>1658174333612</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658174333612</updated>
+    </task>
+    <task id="LOCAL-00013" summary="[Feat] Criar espaço para &quot;TV Alerta Rolim&quot; - #RR11">
+      <created>1658259384765</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658259384765</updated>
+    </task>
+    <task id="LOCAL-00014" summary="[Fix] Criar espaço para &quot;TV Alerta Rolim&quot; - #RR11">
+      <created>1658264634363</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1658264634363</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[Fix] Correção do espaço de banner na noticia topo">
+      <created>1659557178978</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1659557178978</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[feat] Adicionado o banner da Nobeta.">
+      <created>1661277977288</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661277977288</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[fix] Correções de banners, icones de rede social, inclusão de novos espaços de banners">
+      <created>1661377900896</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661377900896</updated>
+    </task>
+    <task id="LOCAL-00018" summary="[fix] Correção do responsivo, forçando width">
+      <created>1662144668718</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1662144668718</updated>
+    </task>
+    <task id="LOCAL-00019" summary="[fix] Adicionado novo banner da nobeta">
+      <created>1663787420296</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1663787420296</updated>
+    </task>
+    <task id="LOCAL-00020" summary="[feat] Funcao para pegar os vídeos do rumble">
+      <created>1663787446606</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1663787446606</updated>
+    </task>
+    <task id="LOCAL-00021" summary="[feat] removido o script da Nobeta.">
+      <created>1665518920045</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1665518920045</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[feat] removido o script da Nobeta.">
+      <created>1665518998983</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665518998983</updated>
+    </task>
+    <task id="LOCAL-00023" summary="[feat] removido o script da Nobeta.">
+      <created>1668741608088</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1668741608088</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Ajustes de arquivos locais para servidor Docker" />
+    <MESSAGE value="Ajustes no arquivo dashboard para que reconheça a versão do MySQL" />
+    <MESSAGE value="Ajuste pra alteração de data" />
+    <MESSAGE value="Removido a atualização views dos banners pra deixar pra ágil o site" />
+    <MESSAGE value="[FEAT] Adicionado novo campo de banner no topo." />
+    <MESSAGE value="[FEAT] Ajuste para tirar prints" />
+    <MESSAGE value="[FEAT] Ajuste no app_id do facebook" />
+    <MESSAGE value="[Feat] Remoção do ads_php e adicionado script da nobeta." />
+    <MESSAGE value="[Feat] Remoção do script da nobeta." />
+    <MESSAGE value="[Feat] Aumentar o player do facebook na leitura de notícias. #RR:18" />
+    <MESSAGE value="[Feat] Remover o banner bet365." />
+    <MESSAGE value="[Feat] Criar espaço para &quot;TV Alerta Rolim&quot; - #RR11" />
+    <MESSAGE value="[Fix] Criar espaço para &quot;TV Alerta Rolim&quot; - #RR11" />
+    <MESSAGE value="[Fix] Correção do espaço de banner na noticia topo" />
+    <MESSAGE value="[feat] Adicionado o banner da Nobeta." />
+    <MESSAGE value="[fix] Correções de banners, icones de rede social, inclusão de novos espaços de banners" />
+    <MESSAGE value="[fix] Correção do responsivo, forçando width" />
+    <MESSAGE value="[fix] Adicionado novo banner da nobeta" />
+    <MESSAGE value="[feat] Funcao para pegar os vídeos do rumble" />
+    <MESSAGE value="[feat] removido o script da Nobeta." />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat] removido o script da Nobeta." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
