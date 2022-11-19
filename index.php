@@ -22,7 +22,19 @@
     <?php
     include_once "core/theme/header.php";
     echo "<div class='uk-container'>";
-        include_once "core/theme/main.php";
+
+    $pag = filter_input(INPUT_GET, 'pag', FILTER_SANITIZE_ENCODED);
+    if (empty($pag)) {
+        include "core/theme/main.php";
+    } else {
+        $filePag = "core/theme/{$pag}.php";
+        if (!file_exists($filePag)) {
+            include "core/theme/main.php";
+        } else {
+            include "{$filePag}";
+        }
+    }
+
     echo "</div>";
     include_once "core/theme/footer.php";
     ?>
