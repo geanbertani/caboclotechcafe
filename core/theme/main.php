@@ -2,7 +2,7 @@
     <p class="uk-margin-remove">BANNER</p>
 </div>
 <section class="products">
-    <h1 class="productsTitleSection">Produtos</h1>
+    <h1 class="titleSection">Produtos</h1>
     <div class="product uk-flex uk-flex-between uk-margin-bottom">
         <div class="productImage uk-flex uk-flex-middle">
             <img src="uploads/products/image/produto_foto_1.png" alt="Café com leite 180ml">
