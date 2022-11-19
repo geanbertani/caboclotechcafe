@@ -1,4 +1,4 @@
-<header class="header uk-grid-collapse uk-flex uk-flex-between" uk-grid>
+<header class="header uk-grid-collapse uk-flex uk-flex-between uk-margin-bottom" uk-grid>
     <div class="uk-flex uk-flex-middle">
         <a href="#">
             <img src="assets/image/ico-menu.svg" alt="Menu">

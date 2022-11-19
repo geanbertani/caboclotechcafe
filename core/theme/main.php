@@ -1,4 +1,4 @@
-<div class="banner uk-margin-top uk-margin-bottom uk-flex uk-flex-middle uk-flex-center">
+<div class="banner uk-margin-bottom uk-flex uk-flex-middle uk-flex-center">
     <p class="uk-margin-remove">BANNER</p>
 </div>
 <section class="products">
