@@ -33,4 +33,14 @@
             <div class="productAdd uk-flex uk-flex-center"><a href="#" class="uk-button">Adicionar</a></div>
         </div>
     </div>
+    <div class="product uk-flex uk-flex-between uk-margin-bottom">
+        <div class="productImage uk-flex uk-flex-middle">
+            <img src="uploads/products/image/produto_foto_1.png" alt="Café com leite 180ml">
+        </div>
+        <div class="productBoxInfo uk-flex uk-flex-middle uk-flex-wrap">
+            <div class="productName">Café com leite 180ml</div>
+            <div class="productPrice">R$ 3,00</div>
+            <div class="productAdd uk-flex uk-flex-center"><a href="#" class="uk-button">Adicionar</a></div>
+        </div>
+    </div>
 </section>
